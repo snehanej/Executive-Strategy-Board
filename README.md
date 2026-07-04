@@ -8,6 +8,24 @@
 
 Executive Strategy Board is an interactive Power BI dashboard designed to help executives monitor business performance through key metrics, sales analysis, profitability insights, and strategic visualizations.
 
+<h3>Executive Overview</h3>
+
+<p align="center">
+  <img src="Screenshot/Executive Overview.png" alt="Sales Forecast Dashboard" width="100%">
+</p>
+
+<h3>Business Insights & Profitability</h3>
+
+<p align="center">
+  <img src="Screenshot/Business Insights & Profitability.png" alt="Sales Dashboard" width="100%">
+</p>
+
+<h3>Executive Forecast </h3>
+
+<p align="center">
+  <img src="Screenshot/Executive Forecast .png" alt="Sales Forecast Dashboard" width="100%">
+</p>
+
 ## Features
 
 - Executive KPI Dashboard
